@@ -1,0 +1,25 @@
+{
+  "name": "cargame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "excalibur": "^0.14.0",
+    "typescript": "^2.6.2"
+  },
+  "scripts": {
+    "build": "tsc -p ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eerovil/cargame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eerovil/cargame/issues"
+  },
+  "homepage": "https://github.com/Eerovil/cargame#readme"
+}
